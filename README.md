@@ -1,4 +1,4 @@
-*** Molecular Toxicity Prediction with Graph Neural Networks (GNNs)***
+***Molecular Toxicity Prediction with Graph Neural Networks (GNNs)***
 
 Predicting molecular toxicity is crucial for drug discovery, chemical safety, and environmental research.
 This project explores both classical ML models and Graph Neural Networks (GNNs) on molecular graph data, comparing their performance on toxicity prediction.
@@ -17,7 +17,7 @@ Graph Isomorphism Network (GIN) – deep learning model for graph data
 
 Evaluation Metrics: ROC-AUC for classification tasks
 
-** Model Performance**
+**Model Performance**
 | Model           | ROC-AUC | Notes                         |
 |-----------------|---------|-------------------------------|
 | Random Forest   | 0.84    | Best baseline                 |
@@ -33,7 +33,7 @@ GNNs are competitive and scale well for graph-structured data.
 
 Visualizations (training curves, boxplots) reveal per-task variability and model stability.
 
-🛠 **Tech Stack**
+**Tech Stack**
 
 Python 
 
