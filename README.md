@@ -1,9 +1,9 @@
-***🧪 Molecular Toxicity Prediction with Graph Neural Networks (GNNs)***
+*** Molecular Toxicity Prediction with Graph Neural Networks (GNNs)***
 
 Predicting molecular toxicity is crucial for drug discovery, chemical safety, and environmental research.
 This project explores both classical ML models and Graph Neural Networks (GNNs) on molecular graph data, comparing their performance on toxicity prediction.
 
-**🚀 Features**
+**Features**
 
 Dataset: Tox21 – benchmark dataset for molecular toxicity prediction
 
@@ -17,7 +17,7 @@ Graph Isomorphism Network (GIN) – deep learning model for graph data
 
 Evaluation Metrics: ROC-AUC for classification tasks
 
-**📊 Model Performance**
+** Model Performance**
 | Model           | ROC-AUC | Notes                         |
 |-----------------|---------|-------------------------------|
 | Random Forest   | 0.84    | Best baseline                 |
@@ -35,7 +35,7 @@ Visualizations (training curves, boxplots) reveal per-task variability and model
 
 🛠 **Tech Stack**
 
-Python 🐍
+Python 
 
 PyTorch Geometric (GNNs)
 
@@ -46,7 +46,7 @@ Pandas & NumPy
 Matplotlib
 
 
-**📈 Visuals**
+**Visuals**
 
 Per-task ROC-AUC comparison
 <img width="1214" height="658" alt="image" src="https://github.com/user-attachments/assets/e4f08479-383b-46cb-8051-dd4106a3d398" />
@@ -57,7 +57,7 @@ GNN Training Curve
 Boxplot of per-task AUCs
 <img width="837" height="630" alt="image" src="https://github.com/user-attachments/assets/8429c6d7-e439-40da-acd8-bd1169554474" />
 
-**🔮 Future Work**
+**Future Work**
 
 Explore other GNNs like GCN, GraphSAGE, GAT for better performance.
 
@@ -69,7 +69,7 @@ Expand datasets and try data augmentation for improved generalization.
 
 Build a web app/API for real-time toxicity prediction.
 
-**📝 Author**
+**Author**
 
 Priyanka
 
